@@ -1,0 +1,64 @@
+.header_1 {
+    display: grid;
+    padding: 70px;
+    font-family: inherit;
+    padding-left: 20px;
+}
+
+.header_2 {
+    font-family: inherit
+}
+
+.span_1 {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 30px
+}
+
+.span_2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.span_3 {
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 130px;
+}
+
+.span_3>.material-icons {
+    font-size: 20px;
+    position: relative;
+    top: 4px;
+    left: 10px;
+}
+
+.span_4 {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.investors {
+    padding-top: 30px;
+    border-bottom: 1px solid #0000007d;
+    padding-bottom: 20px;
+}
+
+.investors_span {
+    display: grid;
+}
+
+.investors_span>.child_span {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.investors_span>.child_span1 {
+    font-size: 14px;
+    /* font-weight: 500; */
+    color: gray;
+}

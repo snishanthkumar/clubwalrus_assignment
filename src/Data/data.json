@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Bitcoin",
+        "currency": "US$ 2,447.21",
+        "ref": "BTC",
+        "per": "0.25%",
+        "icon": "Bitcoin",
+        "growth": "loss"
+    },
+    {
+        "name": "Ethereum",
+        "currency": "₹12000",
+        "ref": "BTC",
+        "per": "0.12%",
+        "icon": "Ethereum",
+        "growth": "loss"
+    },
+    {
+        "name": "XRP",
+        "currency": "₹12000",
+        "ref": "XRP",
+        "per": "1.24%",
+        "icon": "XRP",
+        "growth": "profit"
+    },
+    {
+        "name": "Bitcoin",
+        "currency": "₹12000",
+        "ref": "BTC",
+        "per": "2.56%",
+        "icon": "Bitcoin",
+        "growth": "loss"
+    }
+]
